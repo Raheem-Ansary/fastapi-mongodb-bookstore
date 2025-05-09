@@ -6,7 +6,13 @@ install
 ##############################
 
 python -m venv my_env
-source my_env/bin/activate # for windows my_env/Script/activate
+
+source my_env/bin/activate 
+
+
+for windows my_env/Script/activate
+
+
 pip install -r requirements.txt
 
 
